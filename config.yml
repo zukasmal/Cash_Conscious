@@ -2,6 +2,7 @@ baseURL: https://cash-conscious.com/
 languageCode: en-us
 title: Cash Conscious
 theme: "PaperMod"
+googleAnalytics: G-REJQCCW23V
 params:
     homeInfoParams:
         Title: "Hello there."
