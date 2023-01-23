@@ -1,6 +1,6 @@
 ---
 title: "Credit Scores 101: Understanding and Improving Your Creditworthiness"
-date: 2023-01-21T21:44:44+02:00
+date: 2022-11-07T21:44:44+02:00
 draft: false
 ---
 

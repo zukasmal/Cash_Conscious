@@ -2,3 +2,7 @@ baseURL: https://cash-conscious.com/
 languageCode: en-us
 title: Cash Conscious
 theme: "PaperMod"
+params:
+    homeInfoParams:
+        Title: "Hello there."
+        Content: Welcome to Cash Conscious, your go-to source for personal finance tips, tricks and strategies. From budgeting and saving to investing and managing debt, we'll help you take control of your finances and achieve financial freedom.

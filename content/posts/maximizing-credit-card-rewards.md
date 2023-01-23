@@ -1,6 +1,6 @@
 ---
 title: "Maximizing Credit Card Rewards: Tips and Tricks for Earning the Most Points and Cashback"
-date: 2023-01-22T22:41:42+02:00
+date: 2023-01-12T22:41:42+02:00
 draft: false
 ---
 
