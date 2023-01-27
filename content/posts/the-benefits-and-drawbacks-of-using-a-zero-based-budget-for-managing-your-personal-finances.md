@@ -11,7 +11,7 @@ Budgeting is a critical aspect of managing your personal finances. It allows you
 
 ## What is a Zero-Based Budget?
 
-A zero-based budget is a budgeting method that starts with a "zero" balance. This means that all of your income is allocated to different expenses, with the goal of ending up with a zero balance at the end of the month. This budgeting method is often referred to as "budgeting from the bottom up" because you are starting with zero and working your way up to your income.
+A zero-based budget is a budgeting method that starts with a "zero" balance. This means that all of your income is allocated to different expenses, with the goal of ending up with a zero balance at the end of the month. This budgeting method is often referred to as "budgeting from the bottom up" because you are starting with zero and working your way up to your income. I have previously written an article about [Zero Based Budgeting Example](https://cash-conscious.com/posts/zero-based-budgeting-example/) explaining it in greater detail.
 
 ## Benefits of a Zero-Based Budget
 

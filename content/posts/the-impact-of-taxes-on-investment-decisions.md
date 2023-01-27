@@ -1,6 +1,6 @@
 ---
 title: "The Impact of Taxes on Investment Decisions: How to Structure Investments to Minimize Tax Liability"
-date: 2023-01-15T22:54:12+02:00
+date: 2022-12-15T22:54:12+02:00
 draft: false
 cover:
     image: tax-statement.jpg
