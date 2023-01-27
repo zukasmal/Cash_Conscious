@@ -1,5 +1,5 @@
 ---
-title: "What Is the #1 Rule of Budgeting"
+title: "What Is the #1 Rule of Budgeting?"
 date: 2023-01-25T20:07:39+02:00
 draft: false
 ---
