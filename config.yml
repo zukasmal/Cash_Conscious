@@ -4,6 +4,19 @@ title: Cash Conscious
 theme: "PaperMod"
 googleAnalytics: G-REJQCCW23V
 env: production
+
+menu:
+    main:
+      - identifier: tags
+        name: Tags
+        url: /tags/
+        weight: 10
+      - identifier: archives
+        name: Archives
+        url: /archives/
+        weight: 20
+
+
 params:
     defaultTheme: dark
     disableThemeToggle: true

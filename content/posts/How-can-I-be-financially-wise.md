@@ -1,6 +1,6 @@
 ---
 title: "How Can I Be Financially Wise?"
-date: 2023-01-24T19:54:25+02:00
+date: 2023-01-20T19:54:25+02:00
 draft: false
 cover: 
     image: open-book.jpg
