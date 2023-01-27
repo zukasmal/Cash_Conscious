@@ -2,6 +2,9 @@
 title: "How Does a Budget Differ When You Have an Irregular Income vs a Predictable Income?"
 date: 2023-01-18T19:24:18+02:00
 draft: false
+cover:
+    image: coin-stacks.jpg
+    alt: Man in a blue shirt sitting in front of a table on which are 3 stacks of gold colored coins
 ---
 
 When it comes to budgeting, having a predictable income can make it easier to plan for the future. On the other hand, having an irregular income can make it more difficult to budget, as it can be hard to predict when money will be coming in. In this article, we'll take a look at the differences between budgeting with a predictable income versus an irregular income and explore some tips for making the most of both.

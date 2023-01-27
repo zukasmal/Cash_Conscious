@@ -2,6 +2,9 @@
 title: "Maximizing Credit Card Rewards: Tips and Tricks for Earning the Most Points and Cashback"
 date: 2023-01-12T22:41:42+02:00
 draft: false
+cover:
+    image: cards-in-hand.jpg
+    alt: left hand holding 4 different brand credit cards
 ---
 
 Using credit cards to earn rewards can be a great way to save money or earn free travel, but it can be difficult to navigate the different types of rewards programs and maximize your earnings. Here are some tips and tricks for earning the most points and cashback from your credit card rewards.
