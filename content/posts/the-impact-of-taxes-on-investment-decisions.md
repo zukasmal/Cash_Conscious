@@ -5,6 +5,7 @@ draft: false
 cover:
     image: tax-statement.jpg
     alt: multiple sheets of tax statements overlapping eachother
+tags: ["taxes", "investing"]
 ---
 
 Investing can be a great way to grow your wealth, but taxes can eat into your returns if you're not careful. Here's a look at how taxes can impact your investment decisions and strategies for minimizing your tax liability.

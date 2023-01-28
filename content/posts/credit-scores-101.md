@@ -5,6 +5,7 @@ draft: false
 cover:
     image: credit-cards.jpg
     alt: multiple credit cards scattered on a red carpet near a powered on laptop
+tags: ["credit score", "financial life", "credit card", "creditworthiness"]
 ---
 
 Your credit score is a three-digit number that can have a major impact on your financial life. It determines your creditworthiness and can affect everything from getting approved for a loan to the interest rate you pay on a credit card. A good credit score can save you thousands of dollars in interest over the course of your lifetime, while a poor credit score can make it difficult to access credit and may result in higher interest rates.

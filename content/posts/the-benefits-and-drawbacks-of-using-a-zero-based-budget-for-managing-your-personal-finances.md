@@ -5,6 +5,7 @@ draft: false
 cover:
     image: phone-calculator.jpg
     alt: Iphone held in left hand with calculator app opened
+tags: ["zero-based budget", "budgeting", "financial goals"]
 ---
 
 Budgeting is a critical aspect of managing your personal finances. It allows you to keep track of your income and expenses and ensure that you are making the most of your money. There are many different budgeting methods available, but one that has gained popularity in recent years is the zero-based budget. In this article, we will explore the benefits and drawbacks of using a zero-based budget and whether it is right for you.

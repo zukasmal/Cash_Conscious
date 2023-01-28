@@ -5,6 +5,7 @@ draft: false
 cover:
     image: budget-sheet-coffee.jpg
     alt: budged sheet displayed on a laptop which is placed on a table with a coffee cup on the left
+tags: ["zero-based budget", "example"]
 ---
 
 Zero-based budgeting is a method of budgeting in which all expenses must be justified for each new period. This approach contrasts with traditional budgeting, in which a budget is based on the previous period's actual results, with adjustments for expected changes.

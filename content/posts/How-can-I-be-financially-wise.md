@@ -5,6 +5,7 @@ draft: false
 cover: 
     image: open-book.jpg
     alt: An open book placed flat on a table with two stacks of books in the background
+tags: ["financial life", "financial goals", "retirement", "saving"]
 ---
 
 There are many aspects to consider when it comes to being financially wise. It starts with understanding your current financial situation, setting goals for the future, and creating a plan to achieve those goals. In this article, we will explore some of the key ways to be financially wise, including budgeting, saving, and investing.

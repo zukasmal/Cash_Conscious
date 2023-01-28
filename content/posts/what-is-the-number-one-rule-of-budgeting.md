@@ -5,6 +5,7 @@ draft: false
 cover:
     image: budget-sheet-digital.jpg
     alt: E-tablet placed flat on a table displaying an image containing budgeting information on a financial sheet
+tags: ["financial life", "budgeting", "financial freedom", "emergency fund"]
 ---
 
 Budgeting is a crucial aspect of personal finance and can help individuals achieve their financial goals, whether it be saving for retirement, buying a home, or reducing debt. However, with so many different budgeting methods and strategies out there, it can be overwhelming to determine which approach is the best for you.
