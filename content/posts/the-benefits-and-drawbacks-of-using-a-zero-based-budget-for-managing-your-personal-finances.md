@@ -1,6 +1,6 @@
 ---
 title: "The Benefits and Drawbacks of Using a Zero Based Budget for Managing Your Personal Finances"
-date: 2023-01-27T20:40:25+02:00
+date: 2023-01-24T20:40:25+02:00
 draft: false
 cover:
     image: phone-calculator.jpg
