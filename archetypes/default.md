@@ -1,6 +1,10 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
+cover:
+    image: image.png
+    alt: example alt
+tags: []
 ---
 
