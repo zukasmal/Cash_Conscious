@@ -5,7 +5,7 @@ draft: false
 cover:
     image: coal.jpg
     alt: a batch of black coal bein picked up by a shovel
-tags: ["story", "financial life", "history"]
+tags: ["essay", "financial life", "history"]
 ---
 
 Today I stumbled upon an interesting [acronym](https://en.wikipedia.org/wiki/Acronym) **COAL WAS WEALTH**, which is a list of on-scene considerations for first arriving officers and command staff during a fire incident. The acronym stands for **Construction**, **Occupancy**, **Area**, **Life hazard**, **Water**, **Auxiliary systems**, **Street conditions**, **Weather**, **Exposures**, **Apparatus and personnel**, **Location**, **Time and Hazards**. Each segment of the acronym is important to understand and consider in order to accomplish tasks and tactics associated with a prolonged fireground progression.
