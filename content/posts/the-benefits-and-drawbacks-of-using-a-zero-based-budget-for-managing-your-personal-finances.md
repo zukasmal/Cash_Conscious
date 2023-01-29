@@ -3,7 +3,7 @@ title: "The Benefits and Drawbacks of Using a Zero Based Budget for Managing You
 date: 2022-06-24T20:40:25+02:00
 draft: false
 cover:
-    image: phone-calculator.jpg
+    image: phone-calculator.webp
     alt: Iphone held in left hand with calculator app opened
 tags: ["zero-based budget", "budgeting", "financial goals"]
 ---

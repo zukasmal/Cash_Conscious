@@ -3,7 +3,7 @@ title: "How Can I Be Financially Wise?"
 date: 2022-12-20T19:54:25+02:00
 draft: false
 cover: 
-    image: open-book.jpg
+    image: open-book.webp
     alt: An open book placed flat on a table with two stacks of books in the background
 tags: ["financial life", "financial goals", "retirement", "saving"]
 ---

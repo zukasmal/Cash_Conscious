@@ -3,7 +3,7 @@ title: "The Impact of Taxes on Investment Decisions: How to Structure Investment
 date: 2022-12-15T22:54:12+02:00
 draft: false
 cover:
-    image: tax-statement.jpg
+    image: tax-statement.webp
     alt: multiple sheets of tax statements overlapping eachother
 tags: ["taxes", "investing"]
 ---

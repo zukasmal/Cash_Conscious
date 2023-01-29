@@ -3,7 +3,7 @@ languageCode: en-us
 title: Cash Conscious
 theme: "PaperMod"
 googleAnalytics: G-REJQCCW23V
-env: production
+
 
 menu:
     main:
@@ -18,6 +18,11 @@ menu:
 
 
 params:
+    env: production
+    ShowPostNavLinks: true
+    ShowShareButtons: true
+    ShowToc: true
+    TocOpen: true
     defaultTheme: dark
     disableThemeToggle: true
     homeInfoParams:

@@ -3,7 +3,7 @@ title: "Zero Based Budgeting Example"
 date: 2023-01-22T01:05:18+02:00
 draft: false
 cover:
-    image: budget-sheet-coffee.jpg
+    image: budget-sheet-coffee.webp
     alt: budget sheet displayed on a laptop which is placed on a table with a coffee cup on the left
 tags: ["zero-based budget", "example"]
 ---

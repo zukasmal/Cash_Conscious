@@ -3,7 +3,7 @@ title: "Does Democracy Require Equality of Income or Wealth?"
 date: 2023-01-05T03:22:06+02:00
 draft: false
 cover:
-    image: scales.jpg
+    image: scales.webp
     alt: metalic figurine woman holding scales in right hand and sword in left hand
 tags: ["essay"]
 ---

@@ -3,7 +3,7 @@ title: "Credit Scores and What They Mean"
 date: 2023-01-27T02:22:10+02:00
 draft: false
 cover: 
-    image: credit-score.jpg
+    image: credit-score.webp
     alt: infographic showing a man in a suit pulling on a credit score indicator 
 tags: ["credit score", "financial life", "investing", "taxes"]
 ---

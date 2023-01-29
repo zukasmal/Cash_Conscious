@@ -3,7 +3,7 @@ title: "How Does a Budget Differ When You Have an Irregular Income vs a Predicta
 date: 2023-01-18T19:24:18+02:00
 draft: false
 cover:
-    image: coin-stacks.jpg
+    image: coin-stacks.webp
     alt: Man in a blue shirt sitting in front of a table on which are 3 stacks of gold colored coins
 tags: ["budgeting", "income", "expenses"]
 ---

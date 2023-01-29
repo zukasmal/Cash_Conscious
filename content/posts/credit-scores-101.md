@@ -3,7 +3,7 @@ title: "Credit Scores 101: Understanding and Improving Your Creditworthiness"
 date: 2022-11-07T21:44:44+02:00
 draft: false
 cover:
-    image: credit-cards.jpg
+    image: credit-cards.webp
     alt: multiple credit cards scattered on a red carpet near a powered on laptop
 tags: ["credit score", "financial life", "credit card", "creditworthiness"]
 ---

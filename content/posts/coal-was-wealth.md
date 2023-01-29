@@ -3,7 +3,7 @@ title: "Coal Was Wealth"
 date: 2023-01-28T03:07:24+02:00
 draft: false
 cover:
-    image: coal.jpg
+    image: coal.webp
     alt: a batch of black coal bein picked up by a shovel
 tags: ["essay", "financial life", "history"]
 ---

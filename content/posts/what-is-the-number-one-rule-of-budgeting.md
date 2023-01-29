@@ -3,7 +3,7 @@ title: "What Is the #1 Rule of Budgeting?"
 date: 2022-09-05T20:07:39+02:00
 draft: false
 cover:
-    image: budget-sheet-digital.jpg
+    image: budget-sheet-digital.webp
     alt: E-tablet placed flat on a table displaying an image containing budgeting information on a financial sheet
 tags: ["financial life", "budgeting", "financial freedom", "emergency fund"]
 ---

@@ -3,7 +3,7 @@ title: "Maximizing Credit Card Rewards: Tips and Tricks for Earning the Most Poi
 date: 2022-11-12T22:41:42+02:00
 draft: false
 cover:
-    image: cards-in-hand.jpg
+    image: cards-in-hand.webp
     alt: left hand holding 4 different brand credit cards
 tags: ["rewards", "credit card"]
 ---
