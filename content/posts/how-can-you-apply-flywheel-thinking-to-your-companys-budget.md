@@ -1,5 +1,5 @@
 ---
-title: "How Can You Apply Flywheel Thinking to Your Companys Budget"
+title: "How Can You Apply Flywheel Thinking to Your Companys Budget?"
 date: 2023-01-31T12:48:29+02:00
 draft: false
 cover:
