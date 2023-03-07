@@ -1,6 +1,6 @@
 ---
 title: "Financial Planning Process"
-date: 2023-03-07T13:16:52+02:00
+date: 2023-02-17T13:16:52+02:00
 draft: false
 cover:
     image: man-looking-at-wall.jpg

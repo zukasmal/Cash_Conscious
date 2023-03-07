@@ -18,12 +18,13 @@ menu:
 
 
 params:
+    ShowReadingTime: true
     env: production
     ShowPostNavLinks: true
     ShowShareButtons: true
     ShowToc: true
     TocOpen: true
-    defaultTheme: dark
+    defaultTheme: light
     disableThemeToggle: true
     homeInfoParams:
         Title: "Hello there. 👋"
